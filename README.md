@@ -1,3 +1,4 @@
+# 🌟 Projeto alfabetização digital e capacitação em informática.
 
 ## 🧭 Missão
 Descreva aqui a missão do projeto:  
