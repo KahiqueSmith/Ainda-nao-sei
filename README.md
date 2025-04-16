@@ -42,13 +42,13 @@ Período de 6 meses
 ## 📊 KPIs (Indicadores Chave de Desempenho)
 |     Indicador                     | Meta                  | Atual |
 |------------------------------------|---------------------|-----------|
-|  Número de usuários cadastrados   | 500 usuários        | 0         |
+|  Número de usuários cadastrados   | 500 usuários        | 3 meses   |
 |   Taxa de conclusão dos módulos   | 80% de conclusão    | N/D       |
 |   Satisfação dos usuários         | 90% de satisfação   | N/D       |
 |   Feedbacks positivos recebidos   | 50 feedbacks        | 0         |
 |   Número de parcerias firmadas    | 3 parcerias         | 0         |
 |   Novos conteúdos desenvolvidos   | 5 novos módulos     | 0         |
-|   Estrelas no GitHub              | 50 estrelas         | 0         |
+|   Avaliações no GitHub	          | 50 estrelas         | 0         |
 
 
 
@@ -96,7 +96,7 @@ Período de 6 meses
 
 | Nome         | GitHub           | Função no Projeto               |
 |--------------|------------------|---------------------------------|
-| Tai Oliveira | @tainaoliveira   | Líder Técnica e Facilitadora    |
+| Kahique Smith| @KahiqueeSmith  | Líder Técnico e Facilitador    |
 | [Nome]       | @[GitHub]        | [Função]                        |
 | [Nome]       | @[GitHub]        | [Função]                        |
 
